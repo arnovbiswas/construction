@@ -1,0 +1,8 @@
+index.html
+about.html
+services.html
+news.html
+products.html
+contact.html
+shop.html
+single.html
